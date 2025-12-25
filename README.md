@@ -28,10 +28,11 @@ This system is designed for people who have movement disabilities and the future
 
 ## ⚙️ Installation
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/eye-control.git
 cd eye-control
 
-**### 2. Install dependencies**
+2. Install dependencies
+```bash
 pip install opencv-python mediapipe pyautogui numpy
