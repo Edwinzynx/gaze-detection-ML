@@ -7,7 +7,7 @@ allowing cursor movement and mouse clicks without physical input devices.
 This system is designed for people who have movement disabilities and the future scope is to integrate this into an app of some sort which creates accessibilty for all people.
 ---
 
-## ✨ Features
+## Features
 - Real-time **eye-gaze based cursor movement**
 - **Blink-based mouse click**
 - **Triple-blink gesture** to toggle freeze mode
@@ -17,7 +17,7 @@ This system is designed for people who have movement disabilities and the future
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**
 - **OpenCV** – video capture & visualization
 - **MediaPipe Face Mesh** – facial & iris landmark detection
@@ -26,7 +26,7 @@ This system is designed for people who have movement disabilities and the future
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
